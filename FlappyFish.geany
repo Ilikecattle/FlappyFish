@@ -23,14 +23,16 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
+current_page=6
 FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FFlappyFish.geany;0;4
-FILE_NAME_1=0;XML;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FProject.xml;0;4
-FILE_NAME_2=336;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FGameClass.hx;0;4
-FILE_NAME_3=545;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMain.hx;0;4
-FILE_NAME_4=299;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMenuState.hx;0;4
-FILE_NAME_5=431;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FPlayState.hx;0;4
-FILE_NAME_6=41;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FReg.hx;0;4
+FILE_NAME_1=2956;XML;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FProject.xml;0;4
+FILE_NAME_2=218;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FGameClass.hx;0;4
+FILE_NAME_3=566;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMain.hx;0;4
+FILE_NAME_4=245;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMenuState.hx;0;4
+FILE_NAME_5=627;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FPlayState.hx;0;4
+FILE_NAME_6=263;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FFlappyBackdrop.hx;0;4
+FILE_NAME_7=783;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Flib%2Fhaxe%2Flib%2Fflixel-demos%2F1%2C0%2C2%2FPlatformers%2FProject%20Jumper%2Fsource%2FEnemy.hx;0;4
+FILE_NAME_8=0;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Flib%2Fhaxe%2Flib%2Fflixel-demos%2F1%2C0%2C2%2FPlatformers%2FProject%20Jumper%2Fsource%2FEnemyTemplate.hx;0;4
 
 [VTE]
 last_dir=/home/adam

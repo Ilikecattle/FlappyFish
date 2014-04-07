@@ -8,7 +8,7 @@ class GameClass extends FlxGame
 {
 	var gameWidth:Int = 640;
 	var gameHeight:Int = 480;
-	var initialState:Class<FlxState> = MenuState;
+	var initialState:Class<FlxState> = PlayState;
 	var zoom:Float = -1;
 	var framerate:Int = 60;
 	var skipSplash:Bool = true;

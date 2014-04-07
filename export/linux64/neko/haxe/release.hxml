@@ -2,8 +2,12 @@
 -lib flixel
 -lib openfl
 -lib openfl-native
+-lib flixel-addons
+-lib flixel-ui
+-lib nape
 -cp source
 -D tools=1.3.2
+-D NAPE_NO_INLINE
 -D FLX_NO_DEBUG
 -D lime_native
 -D no-compilation
