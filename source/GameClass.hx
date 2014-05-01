@@ -6,8 +6,8 @@ import flixel.FlxState;
 
 class GameClass extends FlxGame
 {
-	var gameWidth:Int = 640;
-	var gameHeight:Int = 480;
+	var gameWidth:Int = 290;
+	var gameHeight:Int = 512;
 	var initialState:Class<FlxState> = PlayState;
 	var zoom:Float = -1;
 	var framerate:Int = 60;

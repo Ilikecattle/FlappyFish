@@ -23,16 +23,25 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=6
+current_page=17
 FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FFlappyFish.geany;0;4
-FILE_NAME_1=2956;XML;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FProject.xml;0;4
-FILE_NAME_2=218;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FGameClass.hx;0;4
-FILE_NAME_3=566;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMain.hx;0;4
-FILE_NAME_4=245;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMenuState.hx;0;4
-FILE_NAME_5=627;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FPlayState.hx;0;4
-FILE_NAME_6=263;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FFlappyBackdrop.hx;0;4
-FILE_NAME_7=783;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Flib%2Fhaxe%2Flib%2Fflixel-demos%2F1%2C0%2C2%2FPlatformers%2FProject%20Jumper%2Fsource%2FEnemy.hx;0;4
-FILE_NAME_8=0;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Flib%2Fhaxe%2Flib%2Fflixel-demos%2F1%2C0%2C2%2FPlatformers%2FProject%20Jumper%2Fsource%2FEnemyTemplate.hx;0;4
+FILE_NAME_1=1051;XML;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2FProject.xml;0;4
+FILE_NAME_2=617;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FGameClass.hx;0;4
+FILE_NAME_3=346;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMain.hx;0;4
+FILE_NAME_4=370;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FMenuState.hx;0;4
+FILE_NAME_5=1363;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2FPlayState.hx;0;4
+FILE_NAME_6=218;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FFlappyBackdrop.hx;0;4
+FILE_NAME_7=728;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fmodels%2FFish.hx;0;4
+FILE_NAME_8=868;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FTitle.hx;0;4
+FILE_NAME_9=218;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FStartButton.hx;0;4
+FILE_NAME_10=1377;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FFishNameSelect.hx;0;4
+FILE_NAME_11=193;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FFishRenderer.hx;0;4
+FILE_NAME_12=3325;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Flib%2Fhaxe%2Flib%2Fflixel-demos%2Fgit%2FPlatformers%2FEZPlatformer%2Fsource%2FPlayState.hx;0;4
+FILE_NAME_13=781;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FObstacleRenderer.hx;0;4
+FILE_NAME_14=263;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FObstacle.hx;0;4
+FILE_NAME_15=224;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FGround.hx;0;4
+FILE_NAME_16=276;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Fdevelopment%2FFlappyFish%2Fsource%2Fviews%2FBottomObstacle.hx;0;4
+FILE_NAME_17=980;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fadam%2Femulators%2FDolphin%2Fdolphin-emu%2FCMakeLists.txt;0;4
 
 [VTE]
 last_dir=/home/adam
